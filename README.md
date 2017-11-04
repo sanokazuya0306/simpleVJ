@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SimpleVJ for TouchDesigner
 ====
 
@@ -68,3 +69,6 @@ temporarily release
 ## License
 
 MIT License
+=======
+
+>>>>>>> 35b335ec6956f3f7255fcd634bbd612dc64c028a
