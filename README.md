@@ -27,7 +27,7 @@ Download and unzip this repository from upper right button.
 上部右側からこのレポジトリをダウンロードして解凍。  
 <img src="https://github.com/sanokazuya0306/simpleVJ/blob/media/image/screenshot2.png" width="400px">
 
-**[3] push Perform button.**  
+**[3] Push Perform button.**  
 Open simpleVJ.toe, wait the startup, and push upper left Perform button.  
 simpleVJ.toeを開いて、起動を待って、左上のPerformボタンを押す。  
 <img src="https://github.com/sanokazuya0306/simpleVJ/blob/media/image/screenshot3.png" width="400px">
@@ -64,7 +64,7 @@ After that, as you like, please enjoy the simpleness of the function.
 ## Contribution
 
 Please tell me if you need any other function. Or rather please feel free to use any parts of this .toe file.  
-こういう機能ほしいとかあったら教えてください。ていうかどんどんパーツ切り出して使って下さい。
+こういう機能ほしいとかあったら教えてください。ていうかどんどんパーツ切り出して使って下さい。直したり機能突っ込んだりUI改善したりもっとキレてるVJソフト作ってくれる人も大歓迎です。。
 
 
 ## Version
