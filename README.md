@@ -1,7 +1,7 @@
-#SimpleVJ for TouchDesigner
+# SimpleVJ for TouchDesigner
 
-## about
-![screenshot1](https://github.com/sanokazuya0306/simpleVJ/blob/media/image/screenshot1.png =x400)
+## Overview
+<img src="https://github.com/sanokazuya0306/simpleVJ/blob/media/image/screenshot1.png" width="400px")
 
 This is super simple VJ software working on [TouchDesigner](https://www.derivative.ca/).
 
