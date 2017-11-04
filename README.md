@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-SimpleVJ for TouchDesigner
-====
+#SimpleVJ for TouchDesigner
 
 ## about
-![screenshot1](https://github.com/sanokazuya0306/simpleVJ/blob/media/image/screenshot1.png)
+![screenshot1](https://github.com/sanokazuya0306/simpleVJ/blob/media/image/screenshot1.png =x400)
 
 This is super simple VJ software working on [TouchDesigner](https://www.derivative.ca/).
 
@@ -69,6 +67,3 @@ temporarily release
 ## License
 
 MIT License
-=======
-
->>>>>>> 35b335ec6956f3f7255fcd634bbd612dc64c028a
