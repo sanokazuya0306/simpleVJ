@@ -13,8 +13,8 @@ Execution checked environment:
 
 
 ## How to use in super simple 3step for Dummies
-[サルでもわかる使い方超シンプル3ステップ]
-! Please connect Monitor for output.
+[サルでもわかる使い方超シンプル3ステップ]  
+! Please connect Monitor for output.  
 出力用モニターを繋げておいてください。
 
 **[1]** Download TouchDesigner. It is enough by Non-Commercial(free) license.  
