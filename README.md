@@ -8,6 +8,7 @@ This is super simple VJ software working on [TouchDesigner](https://www.derivati
 
 Execution checked environment  
 - TouchDesigner 099 macOS Build 2017.14620  
+- macOS Sierra 10.12.3
 - MacBook Pro Mid 2014
 
 
