@@ -6,6 +6,10 @@
 This is super simple VJ software working on [TouchDesigner](https://www.derivative.ca/).  
 これは[TouchDesigner](https://www.derivative.ca/)上で動作する、超単純機能のみを揃えたVJソフトです。
 
+確認動作環境:  
+TouchDesigner 099 macOS Build 2017.14620  
+MacBook Pro Mid 2014
+
 
 ## How to use in super simple 3step for Dummies
 [サルでもわかる使い方超シンプル3ステップ]
