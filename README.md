@@ -17,15 +17,18 @@ Execution checked environment:
 ! Please connect Monitor for output.  
 出力用モニターを繋げておいてください。
 
-**[1]** Download TouchDesigner. It is enough by Non-Commercial(free) license.  
+**[1] Download TouchDesigner.**  
+It is enough by Non-Commercial(free) license.  
 TouchDesignerをダウンロード。非商用版（無料）でも十分機能します。  
 [Download from here](https://www.derivative.ca/099/Downloads/)
 
-**[2]** Download and unzip this repository from upper right button.  
+**[2] Download this repository.**  
+Download and unzip this repository from upper right button.
 上部右側からこのレポジトリをダウンロードして解凍。  
 <img src="https://github.com/sanokazuya0306/simpleVJ/blob/media/image/screenshot2.png" width="400px">
 
-**[3]** Open simpleVJ.toe, wait the startup, and push upper left Perform button.  
+**[3] push Perform button.**  
+Open simpleVJ.toe, wait the startup, and push upper left Perform button.  
 simpleVJ.toeを開いて、起動を待って、左上のPerformボタンを押す。  
 <img src="https://github.com/sanokazuya0306/simpleVJ/blob/media/image/screenshot3.png" width="400px">
 
