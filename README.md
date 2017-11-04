@@ -6,7 +6,7 @@
 This is super simple VJ software working on [TouchDesigner](https://www.derivative.ca/).  
 これは[TouchDesigner](https://www.derivative.ca/)上で動作する、超単純機能のみを揃えたVJソフトです。
 
-Execution checked environment  
+Execution checked environment:  
 - TouchDesigner 099 macOS Build 2017.14620  
 - macOS Sierra 10.12.3
 - MacBook Pro Mid 2014
@@ -14,6 +14,8 @@ Execution checked environment
 
 ## How to use in super simple 3step for Dummies
 [サルでもわかる使い方超シンプル3ステップ]
+! Please connect Monitor for output.
+出力用モニターを繋げておいてください。
 
 **[1]** Download TouchDesigner. It is enough by Non-Commercial(free) license.  
 TouchDesignerをダウンロード。非商用版（無料）でも十分機能します。  
